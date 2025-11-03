@@ -4,7 +4,7 @@ This repository contains a dataset of 48900 reported side effects of ibuprofen e
 It is intended for use in pharmacovigilance, pharmacoepidemiology and drug safety.
 The repository contains only side effects at this stage, value counts and outcome will be added in later updates
 
-##Goal
+## Goal
 The aim of this project is to 
 Identify the most reported side effect of ibuprofen
 Support ongoing research into NSAID safety profiles
@@ -13,5 +13,5 @@ Support ongoing research into NSAID safety profiles
 Add other NSAIDs to the list for comparison
 Create visualizations
 
-##About
+## About
 Learning data analysis by working with real world pharmacovigigilance and epidemiology data
